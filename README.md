@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning nextjs
 - 💞️ I’m looking to collaborate on rich front-end experience
-- 📫 How to reach me alihaithdev26@gmail.com
+- 📫 How to reach me alihaithamdev26@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love tea
 
